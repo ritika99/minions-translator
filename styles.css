@@ -30,12 +30,11 @@ body {
 }
 
 .link-primary {
-    /* background-color: var(--primary-color); */
     background-color: black;
     color: var(--primary-color);
     border-radius: 0.5rem;
     border: none;
-    padding: 0.5rem 2rem;
+    padding: 0.5rem 1rem;
     font-weight: bold;
     font-size: 1rem;
     margin: 1rem auto;
@@ -49,10 +48,10 @@ body {
 }
 
 textarea{
-    border: 1px solid black;
+    border: 1px solid var(--pale-yellow);
     border-radius: 0.5rem;
     height: 15vh;
-    width: 50%;
+    width: 45%;
     padding: 1rem;
     display: block;
     margin: auto;
@@ -94,7 +93,7 @@ textarea{
 }
 
 .header-img {
-    max-width: 600px;
+    max-width: 400px;
     width: 50%;
     display: block;
     margin: auto;
