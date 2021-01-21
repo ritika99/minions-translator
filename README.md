@@ -5,4 +5,4 @@ Banana Dub webapp to convert from English to the language of the Minions (someti
 https://banana-dub.netlify.app/
 
 ### Screenshots
-<img src="bananaDubScreenshot.png" width="500">   <img src="bananaDubScreenshotMobile.PNG" width="136">
+<kbd><img src="bananaDubScreenshot.png" width="500"></kbd>   <kbd><img src="bananaDubScreenshotMobile.PNG" width="136"></kbd>
